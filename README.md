@@ -11,3 +11,7 @@ Assuming there is no maximum load for the lorries, but all lorries should be loa
 Employ a heuristic search method (Random Restart Hill Climbing) to solve the problem.
 
 
+#### Setup:
+
+Before running, make sure to update the path to the files labled `dataFile` and `allFitnessFile`. These are found in `Program.cs` (line 11 and 12). The algorithm's parameters can also be changed in this file too - `RRHCRestarts` and `RMHCIterations`.
+
