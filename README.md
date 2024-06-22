@@ -1,8 +1,6 @@
 # Heuristic Search
 
-## The problem:
-
-### The Weights and Load Problem
+### The Weights and Load Problem:
 
 There are three lorries (A, B, and C) used to transport bricks from one point to another. 
 
